@@ -1,0 +1,9 @@
+code/geopolygons_test.py
+code/test.py
+code/update.py
+erd_diagrams
+geo_data/processed/*.geojson
+logs
+mall_analytics_dbt/target/
+mall_analytics_dbt/dbt_packages/
+mall_analytics_dbt/logs/

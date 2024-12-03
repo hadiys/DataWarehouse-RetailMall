@@ -1,0 +1,24 @@
+sources:
+  - name: source_data                  
+    database: mall_analytics  
+    schema: dev_warehouse               
+    tables:
+      - name: zone                  
+      - name: shop
+      - name: visitor
+      - name: transaction
+      - name: journey
+  - name: dimensional_data
+    database: mall_analytics
+    schema: dev_dimensional_model
+    tables: 
+      - name: dim_date
+      - name: dim_time
+      - name: fct_journey
+      - name: fct_transaction
+      - name: temp
+        
+
+
+
+    
