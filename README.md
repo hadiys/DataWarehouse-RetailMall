@@ -6,3 +6,4 @@ An exercise in data warehousing for retail mall analytics use-case.
 - Data modeling: DBT
 - ETL: Python, pandas
 - Geo Data: Google Earth, geopandas, shapely
+- Visualisation: Tableau
