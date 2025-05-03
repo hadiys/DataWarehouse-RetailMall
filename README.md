@@ -9,7 +9,12 @@ An exercise in data warehousing for retail mall analytics use-case.
 - Visualisation: Tableau
 
 ## Data Warehouse Entities
-<img src="images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_WAREHOUSE.png" alt="Data Warehouse")
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img src="images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_WAREHOUSE.png" alt="Data Warehouse")
+</picture>
+
 
 ## Dimensional Model with Snowflake Schema
 ![Dimensional Model with Snowflake Schema](images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_DIMENSIONAL_MODEL.png "Dimensional Model with Snowflake Schema")
