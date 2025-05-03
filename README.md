@@ -10,8 +10,8 @@ An exercise in data warehousing for retail mall analytics use-case.
 
 ## Data Warehouse Entities
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_WAREHOUSE.png">
+ <source media="(prefers-color-scheme: light)" srcset="images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_WAREHOUSE.png">
  <img src="images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_WAREHOUSE.png" alt="Data Warehouse")
 </picture>
 
