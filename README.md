@@ -18,9 +18,9 @@ An exercise in data warehousing for retail mall analytics use-case.
 
 ## Dimensional Model with Snowflake Schema
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="images/images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_DIMENSIONAL_MODEL.png" width=750px>
- <source media="(prefers-color-scheme: light)" srcset="images/images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_DIMENSIONAL_MODEL.png" width=750px>
- <img src="images/images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_DIMENSIONAL_MODEL.png" alt="Dimensional Model with Snowflake Schema" width=750px>
+ <source media="(prefers-color-scheme: dark)" srcset="images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_DIMENSIONAL_MODEL.png" width=750px>
+ <source media="(prefers-color-scheme: light)" srcset="images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_DIMENSIONAL_MODEL.png" width=750px>
+ <img src="images/MALL_ANALYTICS%20-%20MALL_ANALYTICS%20-%20DEV_DIMENSIONAL_MODEL.png" alt="Dimensional Model with Snowflake Schema" width=750px>
 </picture>
 
 
